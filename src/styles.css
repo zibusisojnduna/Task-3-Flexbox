@@ -1,0 +1,82 @@
+.flexbox-container{
+    display: flex;
+}
+
+.flexbox-item-1{
+    height: 200px;
+    width: 600px;
+    margin: 3px;
+    background-color: darkblue;
+}
+
+.flexbox-item-2{
+    height: 200px;
+    width: 300px;
+    margin: 3px;
+    background-color: goldenrod;
+}
+
+.flexbox-item-3{
+    height: 200px;
+    width: 600px;
+    margin: 3px;
+    background-color: darkblue;
+}
+
+.flexbox-container-2{
+    display: flex;
+    
+}
+
+.flexbox-item-4{
+    height: 300px;
+    width: 300px;
+    margin-left: 3px;
+    margin-right: 250px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    background-color: red;
+}
+
+.flexbox-item-5{
+    height: 275px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-color: lime;
+}
+
+.flexbox-item-6{
+    height: 300px;
+    width: 300px;
+    margin-left: 260px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    background-color: red;
+}
+
+.flexbox-container-3{
+    display: flex;
+
+}
+
+.flexbox-item-7{
+    height: 200px;
+    width: 600px;
+    margin: 3px;
+    background-color: darkblue;
+}
+
+.flexbox-item-8{
+    height: 200px;
+    width: 300px;
+    margin: 3px;
+    background-color: goldenrod;
+}
+
+.flexbox-item-9{
+    height: 200px;
+    width: 600px;
+    margin: 3px;
+    background-color: darkblue;
+}
